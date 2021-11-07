@@ -1,8 +1,8 @@
 # Hi there 👋
 You have reached the repository of the project Fitzhi.
 
-The easiest way to explore Fitzhi is to download its container :
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png" />(https://hub.docker.com/repository/docker/fitzhi/application)
+The easiest way to explore Fitzhi is to download its container
+[<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png" />](https://hub.docker.com/repository/docker/fitzhi/application)
 
 ## Connect with us
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/fitzhi/about/?viewAsMember=true)
