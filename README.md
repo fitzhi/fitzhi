@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="https://fitzhi.com/assets/img/zhi.png" /> <span style="margin-bottom: 20px;">You have reached the repository of the <a href="https://www.fitzhi.com">project Fitzhi</a></span>.
+<img src="https://fitzhi.com/assets/img/zhi.png" style="width: 30px; height: 30px;" /> You have reached the repository of the <a href="https://www.fitzhi.com">project Fitzhi</a>.
 
 The best way to discover Fitzhi is to download its Docker container.
 [<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png" style="width: 30px; height: 30px;" />](https://hub.docker.com/repository/docker/fitzhi/application)
